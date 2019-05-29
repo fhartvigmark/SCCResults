@@ -1,0 +1,1200 @@
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:07:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:07:26 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:07:35 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:07:45 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:07:54 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:08:03 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:08:13 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:08:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:08:32 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:08:41 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:08:51 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:08:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:09:04 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:09:10 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:09:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:09:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:09:29 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:09:36 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:09:42 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:09:48 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:09:55 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:09:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:10:02 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:10:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:10:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:10:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:10:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:10:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:10:27 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:10:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:10:34 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:10:37 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:10:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:10:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:10:46 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:10:50 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:10:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:10:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:10:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:11:01 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:11:04 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:11:07 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:11:10 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:11:12 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:11:15 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:11:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:11:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:11:26 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:11:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 00:03:57, May 30 2019. Time: 00:11:31 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=Slashdot0902.txt
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
