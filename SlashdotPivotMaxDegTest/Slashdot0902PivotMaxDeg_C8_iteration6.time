@@ -1,0 +1,13 @@
+
+Time used: 
+  Setup			325ms
+  Prep			0μs
+  SCC			6332ms
+    First FWBW		18ms
+    FWBW		13ms
+    Trim		0ms
+      Trim 1		0ms
+        First Trim	0ms
+      Trim 2		0ms
+      Trim 3		0ms
+    Pivot		6282ms
