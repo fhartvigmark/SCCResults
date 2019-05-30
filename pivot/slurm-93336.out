@@ -1,0 +1,1300 @@
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:09:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C1_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:10:13 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C1_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:10:38 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C1_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:11:03 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C1_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:11:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C1_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:11:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C1_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:12:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C1_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:12:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C1_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:13:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C1_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:13:33 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C1_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:13:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C2_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:14:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C2_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:14:39 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C2_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:15:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C2_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:15:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C2_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:15:42 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C2_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:16:02 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C2_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:16:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C2_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:16:44 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C2_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:17:04 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C2_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:17:25 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C4_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:17:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C4_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:18:01 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C4_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:18:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C4_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:18:37 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C4_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:18:55 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C4_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:19:13 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C4_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:19:31 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C4_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:19:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C4_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:20:07 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C4_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:20:25 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C8_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:20:42 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C8_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:20:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C8_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:21:15 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C8_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:21:32 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C8_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:21:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C8_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:22:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C8_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:22:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C8_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:22:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C8_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:22:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C8_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:23:13 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C16_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:23:34 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C16_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:23:51 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C16_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:24:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C16_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:24:24 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C16_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:24:42 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C16_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:24:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C16_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:25:15 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C16_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:25:31 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C16_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 16:25:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Stanford.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandom_C16_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
