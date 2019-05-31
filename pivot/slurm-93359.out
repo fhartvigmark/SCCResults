@@ -1,0 +1,2 @@
+slurmstepd-ctit061: error: execve(): test_pivot_randwalk2_scaling.sh: Permission denied
+srun: error: ctit061: task 0: Exited with exit code 13

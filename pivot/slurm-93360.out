@@ -1,0 +1,1060 @@
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C1_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C1_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C1_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C1_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C1_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C1_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C1_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C1_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C1_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C1_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+cat: 'PivotRandWalk2_C1_iteration*.time': No such file or directory
+rm: cannot remove 'PivotRandWalk2_C1_iteration*.time': No such file or directory
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C2_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C2_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C2_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C2_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C2_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C2_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C2_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C2_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C2_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C2_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+cat: 'PivotRandWalk2_C2_iteration*.time': No such file or directory
+rm: cannot remove 'PivotRandWalk2_C2_iteration*.time': No such file or directory
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C4_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C4_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C4_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C4_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C4_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C4_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C4_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C4_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C4_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C4_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+cat: 'PivotRandWalk2_C4_iteration*.time': No such file or directory
+rm: cannot remove 'PivotRandWalk2_C4_iteration*.time': No such file or directory
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C8_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C8_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C8_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C8_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C8_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C8_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C8_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C8_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C8_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C8_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+cat: 'PivotRandWalk2_C8_iteration*.time': No such file or directory
+rm: cannot remove 'PivotRandWalk2_C8_iteration*.time': No such file or directory
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C16_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C16_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C16_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C16_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C16_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C16_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C16_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C16_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C16_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+terminate called after throwing an instance of 'TPt<TExcept>'
+Bootstrapping complete
+SCC. build: 16:01:56, May 30 2019. Time: 00:22:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/.edges
+Input number of trim levels	 (-t=)=0
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=50
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotRandWalk2_C16_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+*** Exception: Can not open file '../graphs/.edges'.
+Aborted
+cat: 'PivotRandWalk2_C16_iteration*.time': No such file or directory
+rm: cannot remove 'PivotRandWalk2_C16_iteration*.time': No such file or directory
