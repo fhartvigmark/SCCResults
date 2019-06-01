@@ -1,0 +1,1820 @@
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 00:51:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 00:53:01 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 00:55:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 00:57:07 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 00:59:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:01:09 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:03:04 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:05:02 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:06:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:08:52 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C1_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:10:46 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:11:50 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:12:54 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:13:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:15:02 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:16:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:17:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:18:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:19:24 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:20:27 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C2_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:21:31 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:22:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:22:42 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:23:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:23:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:24:31 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:25:10 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:25:48 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:26:24 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:27:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C4_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:27:36 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:27:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:28:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:28:44 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:29:07 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:29:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:29:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:30:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:30:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:31:03 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C8_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:31:25 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:31:39 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:31:54 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:32:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:32:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:32:37 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:32:51 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:33:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:33:20 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:33:34 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C16_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:33:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C24_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:34:02 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C24_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:34:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C24_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:34:31 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C24_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:34:45 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C24_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:35:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C24_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:35:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C24_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:35:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C24_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:35:42 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C24_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:35:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C24_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:36:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C32_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:36:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C32_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:36:36 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C32_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:36:48 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C32_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:37:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C32_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:37:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C32_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:37:34 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C32_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:37:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C32_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:37:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C32_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:18:54, May 31 2019. Time: 01:38:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Google.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=1
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=PivotMaxDeg_C32_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
