@@ -1,0 +1,5670 @@
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:42:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C1_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:43:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C1_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:43:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C1_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:43:27 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C1_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:43:38 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C1_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:43:48 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C1_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:43:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C1_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:44:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C1_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:44:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C1_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:44:29 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C1_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:44:39 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C2_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:44:48 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C2_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:44:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C2_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:45:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C2_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:45:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C2_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:45:27 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C2_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:45:36 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C2_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:45:46 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C2_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:45:55 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C2_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:46:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C2_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:46:15 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C4_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:46:25 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C4_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:46:34 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C4_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:46:44 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C4_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:46:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C4_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:47:03 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C4_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:47:12 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C4_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:47:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C4_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:47:31 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C4_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:47:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C4_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:47:50 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C8_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:48:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C8_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:48:10 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C8_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:48:20 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C8_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:48:29 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C8_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:48:39 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C8_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:48:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C8_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:48:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C8_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:49:09 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C8_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:49:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C8_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:49:29 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C16_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:49:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C16_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:49:50 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C16_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:50:01 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C16_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:50:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C16_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:50:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C16_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:50:32 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C16_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:50:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C16_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:50:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C16_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:51:03 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C16_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:51:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C24_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:51:25 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C24_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:51:35 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C24_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:51:46 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C24_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:51:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C24_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:52:07 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C24_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:52:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C24_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:52:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C24_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:52:38 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C24_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:52:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C24_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:52:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C32_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:53:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C32_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:53:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C32_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:53:32 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C32_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:53:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C32_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:53:54 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C32_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:54:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C32_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:54:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C32_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:54:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C32_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:54:39 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_Col_C32_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:54:51 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C1_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:55:01 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C1_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:55:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C1_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:55:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C1_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:55:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C1_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:55:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C1_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:55:50 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C1_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:56:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C1_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:56:10 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C1_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:56:20 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C1_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:56:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C2_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:56:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C2_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:56:50 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C2_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:56:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C2_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:57:09 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C2_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:57:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C2_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:57:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C2_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:57:38 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C2_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:57:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C2_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:57:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C2_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:58:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C4_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:58:15 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C4_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:58:25 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C4_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:58:34 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C4_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:58:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C4_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:58:52 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C4_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:59:01 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C4_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:59:10 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C4_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:59:20 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C4_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:59:29 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C4_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:59:38 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C8_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:59:48 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C8_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 14:59:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C8_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:00:07 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C8_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:00:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C8_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:00:26 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C8_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:00:36 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C8_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:00:46 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C8_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:00:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C8_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:01:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C8_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:01:15 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C16_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:01:26 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C16_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:01:36 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C16_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:01:46 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C16_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:01:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C16_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:02:07 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C16_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:02:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C16_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:02:27 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C16_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:02:38 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C16_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:02:48 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C16_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:02:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C24_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:03:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C24_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:03:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C24_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:03:29 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C24_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:03:39 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C24_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:03:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C24_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:03:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C24_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:04:10 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C24_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:04:20 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C24_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:04:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C24_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:04:41 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C32_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:04:51 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C32_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:05:02 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C32_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:05:13 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C32_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:05:24 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C32_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:05:34 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C32_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:05:45 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C32_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:05:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C32_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:06:07 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C32_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:06:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_Col_C32_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:06:29 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C1_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:06:39 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C1_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:06:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C1_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:06:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C1_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:07:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C1_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:07:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C1_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:07:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C1_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:07:38 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C1_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:07:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C1_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:07:57 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C1_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:08:07 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C2_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:08:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C2_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:08:26 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C2_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:08:35 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C2_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:08:45 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C2_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:08:54 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C2_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:09:03 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C2_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:09:13 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C2_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:09:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C2_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:09:31 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C2_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:09:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C4_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:09:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C4_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:09:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C4_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:10:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C4_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:10:15 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C4_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:10:24 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C4_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:10:33 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C4_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:10:42 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C4_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:10:51 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C4_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:11:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C4_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:11:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C8_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:11:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C8_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:11:27 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C8_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:11:36 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C8_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:11:46 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C8_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:11:55 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C8_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:12:04 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C8_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:12:13 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C8_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:12:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C8_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:12:32 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C8_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:12:41 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C16_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:12:51 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C16_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:13:02 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C16_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:13:12 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C16_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:13:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C16_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:13:32 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C16_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:13:42 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C16_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:13:52 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C16_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:14:02 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C16_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:14:13 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C16_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:14:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C24_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:14:33 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C24_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:14:44 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C24_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:14:54 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C24_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:15:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C24_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:15:15 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C24_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:15:25 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C24_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:15:35 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C24_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:15:46 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C24_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:15:57 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C24_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:16:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C32_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:16:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C32_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:16:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C32_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:16:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C32_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:16:51 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C32_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:17:01 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C32_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:17:12 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C32_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:17:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C32_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:17:33 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C32_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 14:37:35, Jun  2 2019. Time: 15:17:44 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/graph1000000.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=0
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_Col_C32_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+threads 32
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
