@@ -1,0 +1,720 @@
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:13 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_C8_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_C8_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_C8_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:15 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_C8_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:15 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_C8_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_C8_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_C8_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_C8_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_C8_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=1
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_1_C8_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_C8_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_C8_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_C8_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:20 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_C8_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:20 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_C8_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_C8_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_C8_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_C8_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_C8_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=2
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_2_C8_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_C8_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:24 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_C8_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:24 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_C8_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:25 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_C8_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:25 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_C8_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:26 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_C8_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:26 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_C8_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:27 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_C8_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:27 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_C8_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
+Bootstrapping complete
+SCC. build: 20:42:55, Jun  2 2019. Time: 10:09:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Slashdot.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=4
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=0
+Specify how often to trim	 (-steps=)=1
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Trim_3_C8_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=3
+
+Loading graph
+Graph loaded
+Starting
+Done
+
+Writing timer output
+
+Writing debug output
+Done
