@@ -1,0 +1,4201 @@
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:39:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:40:15 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:40:44 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:41:12 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:41:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:42:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:42:37 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:43:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:43:33 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:44:01 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:44:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:44:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:45:29 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:45:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:46:29 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:47:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:47:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:48:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:48:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:49:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:49:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:49:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:50:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:50:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:51:24 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:51:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:52:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:52:50 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:53:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:53:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:54:15 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:54:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:55:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:55:39 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:56:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:56:35 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:57:02 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:57:26 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:57:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:58:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:58:39 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:59:03 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:59:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 19:59:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:00:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:00:41 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:01:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:01:31 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:01:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:02:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:02:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:03:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:03:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:04:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:04:32 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:04:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:05:26 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:05:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:06:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:06:48 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:07:15 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:07:42 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:08:09 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:08:36 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:09:04 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:09:32 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:10:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:10:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:10:57 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:11:25 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:11:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:12:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:12:52 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:13:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:13:51 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:14:20 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:14:48 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:15:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:15:44 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:16:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:16:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:17:10 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:17:37 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:18:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:18:32 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:19:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:19:27 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:19:55 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:20:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:20:50 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:21:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:21:48 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:22:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:22:48 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:23:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:23:48 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:24:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:24:45 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:25:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:25:42 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:26:10 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:26:37 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:27:04 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:27:31 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:27:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:28:27 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:28:54 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:29:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:29:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:30:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:30:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:31:10 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:31:37 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:32:03 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:32:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:32:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:33:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:33:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:34:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:34:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:35:10 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:35:38 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:36:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:36:33 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:37:01 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:37:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:37:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:38:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:38:51 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:39:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:39:46 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:40:13 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:40:41 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:41:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:41:34 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:42:01 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+*** Error in `./main': double free or corruption (fasttop): 0x000000000aba7b20 ***
+======= Backtrace: =========
+/lib/x86_64-linux-gnu/libc.so.6(+0x777e5)[0x7f55433a97e5]
+/lib/x86_64-linux-gnu/libc.so.6(+0x8037a)[0x7f55433b237a]
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7f55433b653c]
+./main(_ZN5pivot15getParPivotRandEP13enhancedgraphRK3TPtI7TNGraphEibii+0x127)[0x46b2f7]
+./main(_ZN5pivot9findPivotEP13enhancedgraphRK3TPtI7TNGraphEiiii+0x142)[0x46b4e2]
+./main[0x4780a0]
+/usr/lib/x86_64-linux-gnu/libgomp.so.1(+0xdfa4)[0x7f5543b3cfa4]
+/usr/lib/x86_64-linux-gnu/libgomp.so.1(+0x11d6c)[0x7f5543b40d6c]
+/usr/lib/x86_64-linux-gnu/libgomp.so.1(+0xf44a)[0x7f5543b3e44a]
+/lib/x86_64-linux-gnu/libpthread.so.0(+0x76ba)[0x7f55437036ba]
+/lib/x86_64-linux-gnu/libc.so.6(clone+0x6d)[0x7f554343941d]
+======= Memory map: ========
+00400000-00785000 r-xp 00000000 00:2a 41168572                           /home/x2005922/src/main
+00984000-00987000 r--p 00384000 00:2a 41168572                           /home/x2005922/src/main
+00987000-00988000 rw-p 00387000 00:2a 41168572                           /home/x2005922/src/main
+00988000-00989000 rw-p 00000000 00:00 0 
+02625000-1dd80000 rw-p 00000000 00:00 0                                  [heap]
+7f54c4000000-7f54c4269000 rw-p 00000000 00:00 0 
+7f54c4269000-7f54c8000000 ---p 00000000 00:00 0 
+7f54cc000000-7f54cc286000 rw-p 00000000 00:00 0 
+7f54cc286000-7f54d0000000 ---p 00000000 00:00 0 
+7f54d4000000-7f54d426d000 rw-p 00000000 00:00 0 
+7f54d426d000-7f54d8000000 ---p 00000000 00:00 0 
+7f54dc000000-7f54dc2bd000 rw-p 00000000 00:00 0 
+7f54dc2bd000-7f54e0000000 ---p 00000000 00:00 0 
+7f54e4000000-7f54e42b7000 rw-p 00000000 00:00 0 
+7f54e42b7000-7f54e8000000 ---p 00000000 00:00 0 
+7f54ec000000-7f54ec258000 rw-p 00000000 00:00 0 
+7f54ec258000-7f54f0000000 ---p 00000000 00:00 0 
+7f54f4000000-7f54f4253000 rw-p 00000000 00:00 0 
+7f54f4253000-7f54f8000000 ---p 00000000 00:00 0 
+7f54fc000000-7f54fc2b1000 rw-p 00000000 00:00 0 
+7f54fc2b1000-7f5500000000 ---p 00000000 00:00 0 
+7f5504000000-7f5504334000 rw-p 00000000 00:00 0 
+7f5504334000-7f5508000000 ---p 00000000 00:00 0 
+7f550c000000-7f550c266000 rw-p 00000000 00:00 0 
+7f550c266000-7f5510000000 ---p 00000000 00:00 0 
+7f5514000000-7f551424a000 rw-p 00000000 00:00 0 
+7f551424a000-7f5518000000 ---p 00000000 00:00 0 
+7f551c000000-7f551c354000 rw-p 00000000 00:00 0 
+7f551c354000-7f5520000000 ---p 00000000 00:00 0 
+7f5524000000-7f55243f9000 rw-p 00000000 00:00 0 
+7f55243f9000-7f5528000000 ---p 00000000 00:00 0 
+7f5528000000-7f5528333000 rw-p 00000000 00:00 0 
+7f5528333000-7f552c000000 ---p 00000000 00:00 0 
+7f552c000000-7f552c2c2000 rw-p 00000000 00:00 0 
+7f552c2c2000-7f5530000000 ---p 00000000 00:00 0 
+7f55321ad000-7f553a9ae000 rw-p 00000000 00:00 0 
+7f553b91f000-7f553b920000 ---p 00000000 00:00 0 
+7f553b920000-7f553c120000 rw-p 00000000 00:00 0 
+7f553c120000-7f553c121000 ---p 00000000 00:00 0 
+7f553c121000-7f553c921000 rw-p 00000000 00:00 0 
+7f553c921000-7f553c922000 ---p 00000000 00:00 0 
+7f553c922000-7f553d122000 rw-p 00000000 00:00 0 
+7f553d122000-7f553d123000 ---p 00000000 00:00 0 
+7f553d123000-7f553d923000 rw-p 00000000 00:00 0 
+7f553d923000-7f553d924000 ---p 00000000 00:00 0 
+7f553d924000-7f553e124000 rw-p 00000000 00:00 0 
+7f553e124000-7f553e125000 ---p 00000000 00:00 0 
+7f553e125000-7f553e925000 rw-p 00000000 00:00 0 
+7f553e925000-7f553e926000 ---p 00000000 00:00 0 
+7f553e926000-7f553f126000 rw-p 00000000 00:00 0 
+7f553f126000-7f553f127000 ---p 00000000 00:00 0 
+7f553f127000-7f553f927000 rw-p 00000000 00:00 0 
+7f553f927000-7f553f928000 ---p 00000000 00:00 0 
+7f553f928000-7f5540128000 rw-p 00000000 00:00 0 
+7f5540128000-7f5540129000 ---p 00000000 00:00 0 
+7f5540129000-7f5540929000 rw-p 00000000 00:00 0 
+7f5540929000-7f554092a000 ---p 00000000 00:00 0 
+7f554092a000-7f554112a000 rw-p 00000000 00:00 0 
+7f554112a000-7f554112b000 ---p 00000000 00:00 0 
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:42:27 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+7f554112b000-7f554192b000 rw-p 00000000 00:00 0 
+7f554192b000-7f554192c000 ---p 00000000 00:00 0 
+7f554192c000-7f554212c000 rw-p 00000000 00:00 0 
+7f554212c000-7f554212d000 ---p 00000000 00:00 0 
+7f554212d000-7f554292d000 rw-p 00000000 00:00 0 
+7f554292d000-7f554292e000 ---p 00000000 00:00 0 
+7f554292e000-7f554312e000 rw-p 00000000 00:00 0 
+7f554312e000-7f5543131000 r-xp 00000000 08:01 393636                     /lib/x86_64-linux-gnu/libdl-2.23.so
+7f5543131000-7f5543330000 ---p 00003000 08:01 393636                     /lib/x86_64-linux-gnu/libdl-2.23.so
+7f5543330000-7f5543331000 r--p 00002000 08:01 393636                     /lib/x86_64-linux-gnu/libdl-2.23.so
+7f5543331000-7f5543332000 rw-p 00003000 08:01 393636                     /lib/x86_64-linux-gnu/libdl-2.23.so
+7f5543332000-7f55434f2000 r-xp 00000000 08:01 394042                     /lib/x86_64-linux-gnu/libc-2.23.so
+7f55434f2000-7f55436f2000 ---p 001c0000 08:01 394042                     /lib/x86_64-linux-gnu/libc-2.23.so
+7f55436f2000-7f55436f6000 r--p 001c0000 08:01 394042                     /lib/x86_64-linux-gnu/libc-2.23.so
+7f55436f6000-7f55436f8000 rw-p 001c4000 08:01 394042                     /lib/x86_64-linux-gnu/libc-2.23.so
+7f55436f8000-7f55436fc000 rw-p 00000000 00:00 0 
+7f55436fc000-7f5543714000 r-xp 00000000 08:01 393814                     /lib/x86_64-linux-gnu/libpthread-2.23.so
+7f5543714000-7f5543913000 ---p 00018000 08:01 393814                     /lib/x86_64-linux-gnu/libpthread-2.23.so
+7f5543913000-7f5543914000 r--p 00017000 08:01 393814                     /lib/x86_64-linux-gnu/libpthread-2.23.so
+7f5543914000-7f5543915000 rw-p 00018000 08:01 393814                     /lib/x86_64-linux-gnu/libpthread-2.23.so
+7f5543915000-7f5543919000 rw-p 00000000 00:00 0 
+7f5543919000-7f554392f000 r-xp 00000000 08:01 393746                     /lib/x86_64-linux-gnu/libgcc_s.so.1
+7f554392f000-7f5543b2e000 ---p 00016000 08:01 393746                     /lib/x86_64-linux-gnu/libgcc_s.so.1
+7f5543b2e000-7f5543b2f000 rw-p 00015000 08:01 393746                     /lib/x86_64-linux-gnu/libgcc_s.so.1
+7f5543b2f000-7f5543b50000 r-xp 00000000 08:01 4718810                    /usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0
+7f5543b50000-7f5543d4f000 ---p 00021000 08:01 4718810                    /usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0
+7f5543d4f000-7f5543d50000 r--p 00020000 08:01 4718810                    /usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0
+7f5543d50000-7f5543d51000 rw-p 00021000 08:01 4718810                    /usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0
+7f5543d51000-7f5543e59000 r-xp 00000000 08:01 397419                     /lib/x86_64-linux-gnu/libm-2.23.so
+7f5543e59000-7f5544058000 ---p 00108000 08:01 397419                     /lib/x86_64-linux-gnu/libm-2.23.so
+7f5544058000-7f5544059000 r--p 00107000 08:01 397419                     /lib/x86_64-linux-gnu/libm-2.23.so
+7f5544059000-7f554405a000 rw-p 00108000 08:01 397419                     /lib/x86_64-linux-gnu/libm-2.23.so
+7f554405a000-7f55441cc000 r-xp 00000000 08:01 4720677                    /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.21
+7f55441cc000-7f55443cc000 ---p 00172000 08:01 4720677                    /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.21
+7f55443cc000-7f55443d6000 r--p 00172000 08:01 4720677                    /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.21
+7f55443d6000-7f55443d8000 rw-p 0017c000 08:01 4720677                    /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.21
+7f55443d8000-7f55443dc000 rw-p 00000000 00:00 0 
+7f55443dc000-7f55443e3000 r-xp 00000000 08:01 393571                     /lib/x86_64-linux-gnu/librt-2.23.so
+7f55443e3000-7f55445e2000 ---p 00007000 08:01 393571                     /lib/x86_64-linux-gnu/librt-2.23.so
+7f55445e2000-7f55445e3000 r--p 00006000 08:01 393571                     /lib/x86_64-linux-gnu/librt-2.23.so
+7f55445e3000-7f55445e4000 rw-p 00007000 08:01 393571                     /lib/x86_64-linux-gnu/librt-2.23.so
+7f55445e4000-7f554460a000 r-xp 00000000 08:01 393813                     /lib/x86_64-linux-gnu/ld-2.23.so
+7f55447e2000-7f55447ec000 rw-p 00000000 00:00 0 
+7f5544808000-7f5544809000 rw-p 00000000 00:00 0 
+7f5544809000-7f554480a000 r--p 00025000 08:01 393813                     /lib/x86_64-linux-gnu/ld-2.23.so
+7f554480a000-7f554480b000 rw-p 00026000 08:01 393813                     /lib/x86_64-linux-gnu/ld-2.23.so
+7f554480b000-7f554480c000 rw-p 00000000 00:00 0 
+7ffcca821000-7ffcca842000 rw-p 00000000 00:00 0                          [stack]
+7ffcca9a7000-7ffcca9aa000 r--p 00000000 00:00 0                          [vvar]
+7ffcca9aa000-7ffcca9ac000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+Aborted
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:42:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:43:20 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:43:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:44:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:44:48 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:45:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:45:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:46:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:46:45 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:47:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:47:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:48:13 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:48:42 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:49:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:49:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:50:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:50:37 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:51:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:51:33 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:52:01 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:52:29 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:52:57 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:53:25 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:53:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:54:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:54:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:55:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:55:46 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:56:15 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:56:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:57:12 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:57:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 18:20:17, Jun  3 2019. Time: 20:58:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Pokec.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=10
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1632803, 30622564
+
+Writing timer output
