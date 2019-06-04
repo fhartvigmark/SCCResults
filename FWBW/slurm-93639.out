@@ -1,0 +1,6000 @@
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:50:04 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:50:27 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:50:48 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:51:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:51:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:51:50 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:52:12 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:52:34 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:52:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:53:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:53:41 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:54:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:54:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:54:54 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:55:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:55:42 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:56:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:56:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:56:54 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:57:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:57:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:58:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:58:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:58:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:59:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 10:59:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:00:03 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:00:26 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:00:50 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:01:13 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:01:36 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:02:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:02:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:02:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:03:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:03:35 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:03:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:04:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:04:45 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:05:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:05:32 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:05:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:06:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:06:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:07:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:07:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:07:54 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:08:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:08:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:09:04 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:09:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:09:51 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:10:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:10:38 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:11:01 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:11:25 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:11:48 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:12:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:12:34 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:12:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:13:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:13:45 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:14:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:14:31 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:14:55 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:15:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:15:42 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:16:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:16:29 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:16:52 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:17:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:17:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:18:03 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:18:26 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:18:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:19:13 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:19:36 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:20:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:20:24 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:20:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:21:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:21:34 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:21:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:22:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:22:44 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:23:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:23:31 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:23:55 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:24:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:24:41 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:25:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:25:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:25:54 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:26:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:26:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:27:07 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:27:32 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:27:57 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:28:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:28:46 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C1_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:29:09 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:29:32 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:29:54 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:30:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:30:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:31:02 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:31:26 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:31:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:32:12 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:32:35 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C2_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:32:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:33:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:33:44 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:34:07 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:34:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:34:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:35:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:35:41 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:36:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:36:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C4_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:36:52 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:37:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:37:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:38:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:38:29 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:38:55 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:39:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:39:44 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:40:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:40:33 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C8_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:40:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:41:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:41:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:42:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:42:36 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:43:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:43:25 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:43:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:44:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:44:39 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C16_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:45:04 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:45:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:45:52 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:46:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:46:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:47:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:47:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:47:55 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:48:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:48:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C24_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:49:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:49:33 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:49:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:50:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:50:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:51:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:51:35 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:51:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:52:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:52:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C32_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:53:12 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:53:35 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:53:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:54:24 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:54:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:55:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:55:36 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:56:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:56:24 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:56:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=2
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=RecFWBW_C48_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:57:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C1_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:57:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C1_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:58:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C1_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:58:32 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C1_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:58:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C1_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:59:24 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C1_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 11:59:50 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C1_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:00:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C1_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:00:41 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C1_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:01:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C1_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:01:33 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C2_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:01:57 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C2_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:02:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C2_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:02:46 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C2_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:03:10 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C2_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:03:35 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C2_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:03:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C2_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:04:24 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C2_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:04:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C2_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:05:13 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C2_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:05:37 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C4_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:06:02 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C4_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:06:26 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C4_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:06:51 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C4_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:07:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C4_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:07:45 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C4_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:08:12 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C4_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:08:37 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C4_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:09:02 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C4_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:09:27 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C4_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:09:52 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C8_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:10:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C8_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:10:41 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C8_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:11:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C8_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:11:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C8_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:11:54 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C8_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:12:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C8_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:12:42 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C8_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:13:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C8_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:13:31 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C8_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:13:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C16_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:14:20 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C16_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:14:45 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C16_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:15:09 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C16_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:15:34 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C16_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:15:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C16_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:16:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C16_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:16:46 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C16_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:17:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C16_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:17:36 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C16_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:18:01 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C24_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:18:25 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C24_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:18:50 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C24_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:19:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C24_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:19:39 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C24_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:20:03 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C24_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:20:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C24_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:20:52 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C24_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:21:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C24_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:21:41 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C24_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:22:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C32_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:22:29 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C32_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:22:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C32_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:23:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C32_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:23:41 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C32_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:24:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C32_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:24:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C32_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:24:54 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C32_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:25:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C32_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:25:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C32_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:26:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C48_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:26:32 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C48_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:26:57 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C48_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:27:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C48_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:27:46 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C48_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:28:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C48_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:28:35 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C48_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:28:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C48_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:29:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C48_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:29:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=3
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=DynamicFWBW_C48_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output

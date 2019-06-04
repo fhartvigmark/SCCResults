@@ -1,0 +1,2166 @@
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:30:12 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:32:45 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:35:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:37:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:40:15 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:42:44 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:45:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:47:45 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:50:10 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:52:38 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=0
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=Baseline_C_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:55:07 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:57:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 12:59:37 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:02:02 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:04:25 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:06:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:09:02 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:11:24 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:13:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:15:57 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:18:07 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:20:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:23:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:25:37 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:28:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:30:51 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:33:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:36:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:38:41 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:41:18 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:43:54 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:46:31 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:49:07 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:51:43 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:54:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:56:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 13:59:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:01:46 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:04:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:06:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:08:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:11:26 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:13:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:16:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:18:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:21:32 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:24:07 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:26:45 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:29:20 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:31:57 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:34:32 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:37:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:39:51 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:42:24 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:44:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:47:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:50:04 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:52:37 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:55:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 14:57:42 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:00:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:02:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:05:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:08:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:10:39 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:13:14 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:16:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:18:35 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:21:11 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:23:46 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=24
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C24_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:26:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:28:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:31:35 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:34:12 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:36:48 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:39:23 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:41:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:44:35 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:47:12 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:49:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:52:38 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:55:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 15:57:52 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 16:00:27 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 16:03:04 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 16:05:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 16:08:15 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 16:10:52 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 16:13:24 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+Bootstrapping complete
+SCC. build: 00:42:29, Jun  4 2019. Time: 16:15:44 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Wiki.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=48
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C48_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 1791489, 28511807
+
+Writing timer output
+srun: got SIGCONT
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-caserta: error: *** JOB 93640 ON caserta CANCELLED AT 2019-06-04T16:19:44 ***
+srun: forcing job termination
+slurmstepd-caserta: error: *** STEP 93640.0 ON caserta CANCELLED AT 2019-06-04T16:19:44 ***
+srun: error: caserta: task 0: Terminated
