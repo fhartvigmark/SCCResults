@@ -1,0 +1,2730 @@
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140730954124372'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:50:36 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140728909497348'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:51:09 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140729575325844'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:51:41 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140730480756324'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:52:13 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140727600878404'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:52:45 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140735818401828'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:53:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140736024498164'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:53:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140728305580740'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:54:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140734273635236'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:54:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140736779490628'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:55:25 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=1
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C1_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140733757080036'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:55:57 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140733999331780'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:56:27 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140725367668020'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:56:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140723454893236'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:57:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140724298473924'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:57:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140722421508756'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:58:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140731258334340'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:58:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140731062825028'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:59:29 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140732929139028'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 11:59:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140728861435732'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:00:29 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=2
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C2_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140721141379204'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:00:59 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140734245184036'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:01:31 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140734205907124'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:02:03 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140734988950212'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:02:35 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140726136660068'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:03:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140733053910916'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:03:38 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140733418411620'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:04:09 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140728363841092'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:04:41 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140723672530468'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:05:12 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140726529908260'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:05:44 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=4
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C4_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140733403822868'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:06:16 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140729232164356'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:06:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140728674608260'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:07:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140720361931300'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:07:50 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140731429948884'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:08:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140726340517300'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:08:55 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140735437882820'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:09:26 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140726009659092'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:09:58 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140722270864196'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:10:30 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140724001568292'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:11:01 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=8
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C8_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140723273322212'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:11:33 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140736556646468'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:12:05 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140733270748356'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:12:37 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140722001206772'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:13:08 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140736401009124'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:13:40 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140729782823860'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:14:12 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140725273768180'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:14:44 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140734979118388'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:15:15 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140732909008004'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:15:47 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140727983564484'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:16:19 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=16
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C16_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140732444602948'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:16:50 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140737357345732'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:17:22 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140726720271876'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:17:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140733483857332'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:18:25 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140734989558260'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:18:56 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140732195055700'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:19:28 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140722121920820'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:20:00 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140732570542980'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:20:32 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140735244269300'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:21:03 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140731417371636'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:21:35 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=32
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C32_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140736920561876'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:22:06 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=64
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C64_iteration1
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140731840379588'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:22:38 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=64
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C64_iteration2
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140729915084516'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:23:09 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=64
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C64_iteration3
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140725766068276'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:23:41 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=64
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C64_iteration4
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140729622167956'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:24:13 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=64
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C64_iteration5
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140726353911668'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:24:45 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=64
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C64_iteration6
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140724793207060'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:25:17 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=64
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C64_iteration7
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140736131995652'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:25:49 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=64
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C64_iteration8
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140729478545828'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:26:21 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=64
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C64_iteration9
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
+
+OPENMP DISPLAY ENVIRONMENT BEGIN
+  _OPENMP = '201307'
+  OMP_DYNAMIC = 'FALSE'
+  OMP_NESTED = 'FALSE'
+  OMP_NUM_THREADS = '64'
+  OMP_SCHEDULE = 'DYNAMIC'
+  OMP_PROC_BIND = 'CLOSE'
+  OMP_PLACES = '{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23},{24},{25},{26},{27},{28},{29},{30},{31},{32},{33},{34},{35},{36},{37},{38},{39},{40},{41},{42},{43},{44},{45},{46},{47},{48},{49},{50},{51},{52},{53},{54},{55},{56},{57},{58},{59},{60},{61},{62},{63}'
+  OMP_STACKSIZE = '140730952148580'
+  OMP_WAIT_POLICY = 'PASSIVE'
+  OMP_THREAD_LIMIT = '4294967295'
+  OMP_MAX_ACTIVE_LEVELS = '2147483647'
+  OMP_CANCELLATION = 'TRUE'
+  OMP_DEFAULT_DEVICE = '0'
+OPENMP DISPLAY ENVIRONMENT END
+SCC. build: 22:12:15, Jun  6 2019. Time: 12:26:53 [Apr  3 2019]
+===============================================================
+Input graph (directed)		 (-g=)=../graphs/Patents.edges
+Input number of trim levels	 (-t=)=3
+Pivot selection			 (-p=)=3
+Specify FW-BW variant		 (-m=)=1
+Specify maximum workers		 (-w=)=64
+Specify randwalk iterations	 (-rand=)=10
+Specify trim cutoff point	 (-cutoff=)=5
+Specify how often to trim	 (-steps=)=200
+Print help section		 (-h=)=No
+Print SCC output to file	 (-out=)=No
+Name to append output file	 (-suffix=)=ParFWBW_C64_iteration10
+Print timers			 (-time=)=3
+Print debug information		 (-a=)=0
+
+Loading graph
+Graph loaded
+Starting
+Done
+Graph 3774768, 16518948
+
+Writing timer output
